@@ -31,4 +31,4 @@ jobs:
           username: ubuntu
           key: ${{ secrets.orgzstackDevServer }}
           source: "build"
-          target: "/var/www/personnece_frontend/personnece_frontend"
+          target: "/var/www/personnece_frontend/personnece_frontend/build"
